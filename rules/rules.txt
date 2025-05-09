@@ -1,0 +1,1000 @@
+string:u:N
+string:u:N + common_number
+common_number + string:u:N
+string:u:N + number
+number + string:u:N
+symbol + string:u:N
+symbol + string:u:N + common_number
+common_number + symbol + string:u:N
+symbol + common_number + string:u:N
+symbol + string:u:N + number
+number + symbol + string:u:N
+symbol + number + string:u:N
+string:u:N + symbol
+string:u:N + symbol + common_number
+common_number + string:u:N + symbol
+string:u:N + common_number + symbol
+string:u:N + symbol + number
+number + string:u:N + symbol
+string:u:N + number + symbol
+string:u:N + day
+string:u:N + day + common_number
+common_number + string:u:N + day
+string:u:N + day + number
+number + string:u:N + day
+symbol + string:u:N + day
+symbol + string:u:N + day + common_number
+common_number + symbol + string:u:N + day
+symbol + common_number + string:u:N + day
+symbol + string:u:N + day + number
+number + symbol + string:u:N + day
+symbol + number + string:u:N + day
+string:u:N + day + symbol
+string:u:N + day + symbol + common_number
+common_number + string:u:N + day + symbol
+string:u:N + day + common_number + symbol
+string:u:N + day + symbol + number
+number + string:u:N + day + symbol
+string:u:N + day + number + symbol
+string:u:N + symbol + day
+string:u:N + symbol + day + common_number
+common_number + string:u:N + symbol + day
+string:u:N + symbol + day + number
+number + string:u:N + symbol + day
+day + string:u:N
+day + string:u:N + common_number
+common_number + day + string:u:N
+day + string:u:N + number
+number + day + string:u:N
+symbol + day + string:u:N
+symbol + day + string:u:N + common_number
+common_number + symbol + day + string:u:N
+symbol + common_number + day + string:u:N
+symbol + day + string:u:N + number
+number + symbol + day + string:u:N
+symbol + number + day + string:u:N
+day + string:u:N + symbol
+day + string:u:N + symbol + common_number
+common_number + day + string:u:N + symbol
+day + string:u:N + common_number + symbol
+day + string:u:N + symbol + number
+number + day + string:u:N + symbol
+day + string:u:N + number + symbol
+day + symbol + string:u:N
+day + symbol + string:u:N + common_number
+common_number + day + symbol + string:u:N
+day + symbol + string:u:N + number
+number + day + symbol + string:u:N
+string:u:N + month
+string:u:N + month + common_number
+common_number + string:u:N + month
+string:u:N + month + number
+number + string:u:N + month
+symbol + string:u:N + month
+symbol + string:u:N + month + common_number
+common_number + symbol + string:u:N + month
+symbol + common_number + string:u:N + month
+symbol + string:u:N + month + number
+number + symbol + string:u:N + month
+symbol + number + string:u:N + month
+string:u:N + month + symbol
+string:u:N + month + symbol + common_number
+common_number + string:u:N + month + symbol
+string:u:N + month + common_number + symbol
+string:u:N + month + symbol + number
+number + string:u:N + month + symbol
+string:u:N + month + number + symbol
+string:u:N + symbol + month
+string:u:N + symbol + month + common_number
+common_number + string:u:N + symbol + month
+string:u:N + symbol + month + number
+number + string:u:N + symbol + month
+month + string:u:N
+month + string:u:N + common_number
+common_number + month + string:u:N
+month + string:u:N + number
+number + month + string:u:N
+symbol + month + string:u:N
+symbol + month + string:u:N + common_number
+common_number + symbol + month + string:u:N
+symbol + common_number + month + string:u:N
+symbol + month + string:u:N + number
+number + symbol + month + string:u:N
+symbol + number + month + string:u:N
+month + string:u:N + symbol
+month + string:u:N + symbol + common_number
+common_number + month + string:u:N + symbol
+month + string:u:N + common_number + symbol
+month + string:u:N + symbol + number
+number + month + string:u:N + symbol
+month + string:u:N + number + symbol
+month + symbol + string:u:N
+month + symbol + string:u:N + common_number
+common_number + month + symbol + string:u:N
+month + symbol + string:u:N + number
+number + month + symbol + string:u:N
+string:u:N + year
+string:u:N + year + common_number
+common_number + string:u:N + year
+string:u:N + year + number
+number + string:u:N + year
+symbol + string:u:N + year
+symbol + string:u:N + year + common_number
+common_number + symbol + string:u:N + year
+symbol + common_number + string:u:N + year
+symbol + string:u:N + year + number
+number + symbol + string:u:N + year
+symbol + number + string:u:N + year
+string:u:N + year + symbol
+string:u:N + year + symbol + common_number
+common_number + string:u:N + year + symbol
+string:u:N + year + common_number + symbol
+string:u:N + year + symbol + number
+number + string:u:N + year + symbol
+string:u:N + year + number + symbol
+string:u:N + symbol + year
+string:u:N + symbol + year + common_number
+common_number + string:u:N + symbol + year
+string:u:N + symbol + year + number
+number + string:u:N + symbol + year
+year + string:u:N
+year + string:u:N + common_number
+common_number + year + string:u:N
+year + string:u:N + number
+number + year + string:u:N
+symbol + year + string:u:N
+symbol + year + string:u:N + common_number
+common_number + symbol + year + string:u:N
+symbol + common_number + year + string:u:N
+symbol + year + string:u:N + number
+number + symbol + year + string:u:N
+symbol + number + year + string:u:N
+year + string:u:N + symbol
+year + string:u:N + symbol + common_number
+common_number + year + string:u:N + symbol
+year + string:u:N + common_number + symbol
+year + string:u:N + symbol + number
+number + year + string:u:N + symbol
+year + string:u:N + number + symbol
+year + symbol + string:u:N
+year + symbol + string:u:N + common_number
+common_number + year + symbol + string:u:N
+year + symbol + string:u:N + number
+number + year + symbol + string:u:N
+string:u:N + short_year
+string:u:N + short_year + common_number
+common_number + string:u:N + short_year
+string:u:N + short_year + number
+number + string:u:N + short_year
+symbol + string:u:N + short_year
+symbol + string:u:N + short_year + common_number
+common_number + symbol + string:u:N + short_year
+symbol + common_number + string:u:N + short_year
+symbol + string:u:N + short_year + number
+number + symbol + string:u:N + short_year
+symbol + number + string:u:N + short_year
+string:u:N + short_year + symbol
+string:u:N + short_year + symbol + common_number
+common_number + string:u:N + short_year + symbol
+string:u:N + short_year + common_number + symbol
+string:u:N + short_year + symbol + number
+number + string:u:N + short_year + symbol
+string:u:N + short_year + number + symbol
+string:u:N + symbol + short_year
+string:u:N + symbol + short_year + common_number
+common_number + string:u:N + symbol + short_year
+string:u:N + symbol + short_year + number
+number + string:u:N + symbol + short_year
+short_year + string:u:N
+short_year + string:u:N + common_number
+common_number + short_year + string:u:N
+short_year + string:u:N + number
+number + short_year + string:u:N
+symbol + short_year + string:u:N
+symbol + short_year + string:u:N + common_number
+common_number + symbol + short_year + string:u:N
+symbol + common_number + short_year + string:u:N
+symbol + short_year + string:u:N + number
+number + symbol + short_year + string:u:N
+symbol + number + short_year + string:u:N
+short_year + string:u:N + symbol
+short_year + string:u:N + symbol + common_number
+common_number + short_year + string:u:N + symbol
+short_year + string:u:N + common_number + symbol
+short_year + string:u:N + symbol + number
+number + short_year + string:u:N + symbol
+short_year + string:u:N + number + symbol
+short_year + symbol + string:u:N
+short_year + symbol + string:u:N + common_number
+common_number + short_year + symbol + string:u:N
+short_year + symbol + string:u:N + number
+number + short_year + symbol + string:u:N
+string:u:N + day + month
+string:u:N + day + month + common_number
+common_number + string:u:N + day + month
+string:u:N + day + month + number
+number + string:u:N + day + month
+symbol + string:u:N + day + month
+symbol + string:u:N + day + month + common_number
+common_number + symbol + string:u:N + day + month
+symbol + common_number + string:u:N + day + month
+symbol + string:u:N + day + month + number
+number + symbol + string:u:N + day + month
+symbol + number + string:u:N + day + month
+string:u:N + day + month + symbol
+string:u:N + day + month + symbol + common_number
+common_number + string:u:N + day + month + symbol
+string:u:N + day + month + common_number + symbol
+string:u:N + day + month + symbol + number
+number + string:u:N + day + month + symbol
+string:u:N + day + month + number + symbol
+string:u:N + symbol + day + month
+string:u:N + symbol + day + month + common_number
+common_number + string:u:N + symbol + day + month
+string:u:N + symbol + day + month + number
+number + string:u:N + symbol + day + month
+string:u:N + day + symbol + month
+string:u:N + day + symbol + month + common_number
+common_number + string:u:N + day + symbol + month
+string:u:N + day + symbol + month + number
+number + string:u:N + day + symbol + month
+day + month + string:u:N
+day + month + string:u:N + common_number
+common_number + day + month + string:u:N
+day + month + string:u:N + number
+number + day + month + string:u:N
+symbol + day + month + string:u:N
+symbol + day + month + string:u:N + common_number
+common_number + symbol + day + month + string:u:N
+symbol + common_number + day + month + string:u:N
+symbol + day + month + string:u:N + number
+number + symbol + day + month + string:u:N
+symbol + number + day + month + string:u:N
+day + month + string:u:N + symbol
+day + month + string:u:N + symbol + common_number
+common_number + day + month + string:u:N + symbol
+day + month + string:u:N + common_number + symbol
+day + month + string:u:N + symbol + number
+number + day + month + string:u:N + symbol
+day + month + string:u:N + number + symbol
+day + symbol + month + string:u:N
+day + symbol + month + string:u:N + common_number
+common_number + day + symbol + month + string:u:N
+day + symbol + month + string:u:N + number
+number + day + symbol + month + string:u:N
+day + month + symbol + string:u:N
+day + month + symbol + string:u:N + common_number
+common_number + day + month + symbol + string:u:N
+day + month + symbol + string:u:N + number
+number + day + month + symbol + string:u:N
+string:u:N + day + year
+string:u:N + day + year + common_number
+common_number + string:u:N + day + year
+string:u:N + day + year + number
+number + string:u:N + day + year
+symbol + string:u:N + day + year
+symbol + string:u:N + day + year + common_number
+common_number + symbol + string:u:N + day + year
+symbol + common_number + string:u:N + day + year
+symbol + string:u:N + day + year + number
+number + symbol + string:u:N + day + year
+symbol + number + string:u:N + day + year
+string:u:N + day + year + symbol
+string:u:N + day + year + symbol + common_number
+common_number + string:u:N + day + year + symbol
+string:u:N + day + year + common_number + symbol
+string:u:N + day + year + symbol + number
+number + string:u:N + day + year + symbol
+string:u:N + day + year + number + symbol
+string:u:N + symbol + day + year
+string:u:N + symbol + day + year + common_number
+common_number + string:u:N + symbol + day + year
+string:u:N + symbol + day + year + number
+number + string:u:N + symbol + day + year
+string:u:N + day + symbol + year
+string:u:N + day + symbol + year + common_number
+common_number + string:u:N + day + symbol + year
+string:u:N + day + symbol + year + number
+number + string:u:N + day + symbol + year
+day + year + string:u:N
+day + year + string:u:N + common_number
+common_number + day + year + string:u:N
+day + year + string:u:N + number
+number + day + year + string:u:N
+symbol + day + year + string:u:N
+symbol + day + year + string:u:N + common_number
+common_number + symbol + day + year + string:u:N
+symbol + common_number + day + year + string:u:N
+symbol + day + year + string:u:N + number
+number + symbol + day + year + string:u:N
+symbol + number + day + year + string:u:N
+day + year + string:u:N + symbol
+day + year + string:u:N + symbol + common_number
+common_number + day + year + string:u:N + symbol
+day + year + string:u:N + common_number + symbol
+day + year + string:u:N + symbol + number
+number + day + year + string:u:N + symbol
+day + year + string:u:N + number + symbol
+day + symbol + year + string:u:N
+day + symbol + year + string:u:N + common_number
+common_number + day + symbol + year + string:u:N
+day + symbol + year + string:u:N + number
+number + day + symbol + year + string:u:N
+day + year + symbol + string:u:N
+day + year + symbol + string:u:N + common_number
+common_number + day + year + symbol + string:u:N
+day + year + symbol + string:u:N + number
+number + day + year + symbol + string:u:N
+string:u:N + day + short_year
+string:u:N + day + short_year + common_number
+common_number + string:u:N + day + short_year
+string:u:N + day + short_year + number
+number + string:u:N + day + short_year
+symbol + string:u:N + day + short_year
+symbol + string:u:N + day + short_year + common_number
+common_number + symbol + string:u:N + day + short_year
+symbol + common_number + string:u:N + day + short_year
+symbol + string:u:N + day + short_year + number
+number + symbol + string:u:N + day + short_year
+symbol + number + string:u:N + day + short_year
+string:u:N + day + short_year + symbol
+string:u:N + day + short_year + symbol + common_number
+common_number + string:u:N + day + short_year + symbol
+string:u:N + day + short_year + common_number + symbol
+string:u:N + day + short_year + symbol + number
+number + string:u:N + day + short_year + symbol
+string:u:N + day + short_year + number + symbol
+string:u:N + symbol + day + short_year
+string:u:N + symbol + day + short_year + common_number
+common_number + string:u:N + symbol + day + short_year
+string:u:N + symbol + day + short_year + number
+number + string:u:N + symbol + day + short_year
+string:u:N + day + symbol + short_year
+string:u:N + day + symbol + short_year + common_number
+common_number + string:u:N + day + symbol + short_year
+string:u:N + day + symbol + short_year + number
+number + string:u:N + day + symbol + short_year
+day + short_year + string:u:N
+day + short_year + string:u:N + common_number
+common_number + day + short_year + string:u:N
+day + short_year + string:u:N + number
+number + day + short_year + string:u:N
+symbol + day + short_year + string:u:N
+symbol + day + short_year + string:u:N + common_number
+common_number + symbol + day + short_year + string:u:N
+symbol + common_number + day + short_year + string:u:N
+symbol + day + short_year + string:u:N + number
+number + symbol + day + short_year + string:u:N
+symbol + number + day + short_year + string:u:N
+day + short_year + string:u:N + symbol
+day + short_year + string:u:N + symbol + common_number
+common_number + day + short_year + string:u:N + symbol
+day + short_year + string:u:N + common_number + symbol
+day + short_year + string:u:N + symbol + number
+number + day + short_year + string:u:N + symbol
+day + short_year + string:u:N + number + symbol
+day + symbol + short_year + string:u:N
+day + symbol + short_year + string:u:N + common_number
+common_number + day + symbol + short_year + string:u:N
+day + symbol + short_year + string:u:N + number
+number + day + symbol + short_year + string:u:N
+day + short_year + symbol + string:u:N
+day + short_year + symbol + string:u:N + common_number
+common_number + day + short_year + symbol + string:u:N
+day + short_year + symbol + string:u:N + number
+number + day + short_year + symbol + string:u:N
+string:u:N + month + day
+string:u:N + month + day + common_number
+common_number + string:u:N + month + day
+string:u:N + month + day + number
+number + string:u:N + month + day
+symbol + string:u:N + month + day
+symbol + string:u:N + month + day + common_number
+common_number + symbol + string:u:N + month + day
+symbol + common_number + string:u:N + month + day
+symbol + string:u:N + month + day + number
+number + symbol + string:u:N + month + day
+symbol + number + string:u:N + month + day
+string:u:N + month + day + symbol
+string:u:N + month + day + symbol + common_number
+common_number + string:u:N + month + day + symbol
+string:u:N + month + day + common_number + symbol
+string:u:N + month + day + symbol + number
+number + string:u:N + month + day + symbol
+string:u:N + month + day + number + symbol
+string:u:N + symbol + month + day
+string:u:N + symbol + month + day + common_number
+common_number + string:u:N + symbol + month + day
+string:u:N + symbol + month + day + number
+number + string:u:N + symbol + month + day
+string:u:N + month + symbol + day
+string:u:N + month + symbol + day + common_number
+common_number + string:u:N + month + symbol + day
+string:u:N + month + symbol + day + number
+number + string:u:N + month + symbol + day
+month + day + string:u:N
+month + day + string:u:N + common_number
+common_number + month + day + string:u:N
+month + day + string:u:N + number
+number + month + day + string:u:N
+symbol + month + day + string:u:N
+symbol + month + day + string:u:N + common_number
+common_number + symbol + month + day + string:u:N
+symbol + common_number + month + day + string:u:N
+symbol + month + day + string:u:N + number
+number + symbol + month + day + string:u:N
+symbol + number + month + day + string:u:N
+month + day + string:u:N + symbol
+month + day + string:u:N + symbol + common_number
+common_number + month + day + string:u:N + symbol
+month + day + string:u:N + common_number + symbol
+month + day + string:u:N + symbol + number
+number + month + day + string:u:N + symbol
+month + day + string:u:N + number + symbol
+month + symbol + day + string:u:N
+month + symbol + day + string:u:N + common_number
+common_number + month + symbol + day + string:u:N
+month + symbol + day + string:u:N + number
+number + month + symbol + day + string:u:N
+month + day + symbol + string:u:N
+month + day + symbol + string:u:N + common_number
+common_number + month + day + symbol + string:u:N
+month + day + symbol + string:u:N + number
+number + month + day + symbol + string:u:N
+string:u:N + month + year
+string:u:N + month + year + common_number
+common_number + string:u:N + month + year
+string:u:N + month + year + number
+number + string:u:N + month + year
+symbol + string:u:N + month + year
+symbol + string:u:N + month + year + common_number
+common_number + symbol + string:u:N + month + year
+symbol + common_number + string:u:N + month + year
+symbol + string:u:N + month + year + number
+number + symbol + string:u:N + month + year
+symbol + number + string:u:N + month + year
+string:u:N + month + year + symbol
+string:u:N + month + year + symbol + common_number
+common_number + string:u:N + month + year + symbol
+string:u:N + month + year + common_number + symbol
+string:u:N + month + year + symbol + number
+number + string:u:N + month + year + symbol
+string:u:N + month + year + number + symbol
+string:u:N + symbol + month + year
+string:u:N + symbol + month + year + common_number
+common_number + string:u:N + symbol + month + year
+string:u:N + symbol + month + year + number
+number + string:u:N + symbol + month + year
+string:u:N + month + symbol + year
+string:u:N + month + symbol + year + common_number
+common_number + string:u:N + month + symbol + year
+string:u:N + month + symbol + year + number
+number + string:u:N + month + symbol + year
+month + year + string:u:N
+month + year + string:u:N + common_number
+common_number + month + year + string:u:N
+month + year + string:u:N + number
+number + month + year + string:u:N
+symbol + month + year + string:u:N
+symbol + month + year + string:u:N + common_number
+common_number + symbol + month + year + string:u:N
+symbol + common_number + month + year + string:u:N
+symbol + month + year + string:u:N + number
+number + symbol + month + year + string:u:N
+symbol + number + month + year + string:u:N
+month + year + string:u:N + symbol
+month + year + string:u:N + symbol + common_number
+common_number + month + year + string:u:N + symbol
+month + year + string:u:N + common_number + symbol
+month + year + string:u:N + symbol + number
+number + month + year + string:u:N + symbol
+month + year + string:u:N + number + symbol
+month + symbol + year + string:u:N
+month + symbol + year + string:u:N + common_number
+common_number + month + symbol + year + string:u:N
+month + symbol + year + string:u:N + number
+number + month + symbol + year + string:u:N
+month + year + symbol + string:u:N
+month + year + symbol + string:u:N + common_number
+common_number + month + year + symbol + string:u:N
+month + year + symbol + string:u:N + number
+number + month + year + symbol + string:u:N
+string:u:N + month + short_year
+string:u:N + month + short_year + common_number
+common_number + string:u:N + month + short_year
+string:u:N + month + short_year + number
+number + string:u:N + month + short_year
+symbol + string:u:N + month + short_year
+symbol + string:u:N + month + short_year + common_number
+common_number + symbol + string:u:N + month + short_year
+symbol + common_number + string:u:N + month + short_year
+symbol + string:u:N + month + short_year + number
+number + symbol + string:u:N + month + short_year
+symbol + number + string:u:N + month + short_year
+string:u:N + month + short_year + symbol
+string:u:N + month + short_year + symbol + common_number
+common_number + string:u:N + month + short_year + symbol
+string:u:N + month + short_year + common_number + symbol
+string:u:N + month + short_year + symbol + number
+number + string:u:N + month + short_year + symbol
+string:u:N + month + short_year + number + symbol
+string:u:N + symbol + month + short_year
+string:u:N + symbol + month + short_year + common_number
+common_number + string:u:N + symbol + month + short_year
+string:u:N + symbol + month + short_year + number
+number + string:u:N + symbol + month + short_year
+string:u:N + month + symbol + short_year
+string:u:N + month + symbol + short_year + common_number
+common_number + string:u:N + month + symbol + short_year
+string:u:N + month + symbol + short_year + number
+number + string:u:N + month + symbol + short_year
+month + short_year + string:u:N
+month + short_year + string:u:N + common_number
+common_number + month + short_year + string:u:N
+month + short_year + string:u:N + number
+number + month + short_year + string:u:N
+symbol + month + short_year + string:u:N
+symbol + month + short_year + string:u:N + common_number
+common_number + symbol + month + short_year + string:u:N
+symbol + common_number + month + short_year + string:u:N
+symbol + month + short_year + string:u:N + number
+number + symbol + month + short_year + string:u:N
+symbol + number + month + short_year + string:u:N
+month + short_year + string:u:N + symbol
+month + short_year + string:u:N + symbol + common_number
+common_number + month + short_year + string:u:N + symbol
+month + short_year + string:u:N + common_number + symbol
+month + short_year + string:u:N + symbol + number
+number + month + short_year + string:u:N + symbol
+month + short_year + string:u:N + number + symbol
+month + symbol + short_year + string:u:N
+month + symbol + short_year + string:u:N + common_number
+common_number + month + symbol + short_year + string:u:N
+month + symbol + short_year + string:u:N + number
+number + month + symbol + short_year + string:u:N
+month + short_year + symbol + string:u:N
+month + short_year + symbol + string:u:N + common_number
+common_number + month + short_year + symbol + string:u:N
+month + short_year + symbol + string:u:N + number
+number + month + short_year + symbol + string:u:N
+string:u:N + year + day
+string:u:N + year + day + common_number
+common_number + string:u:N + year + day
+string:u:N + year + day + number
+number + string:u:N + year + day
+symbol + string:u:N + year + day
+symbol + string:u:N + year + day + common_number
+common_number + symbol + string:u:N + year + day
+symbol + common_number + string:u:N + year + day
+symbol + string:u:N + year + day + number
+number + symbol + string:u:N + year + day
+symbol + number + string:u:N + year + day
+string:u:N + year + day + symbol
+string:u:N + year + day + symbol + common_number
+common_number + string:u:N + year + day + symbol
+string:u:N + year + day + common_number + symbol
+string:u:N + year + day + symbol + number
+number + string:u:N + year + day + symbol
+string:u:N + year + day + number + symbol
+string:u:N + symbol + year + day
+string:u:N + symbol + year + day + common_number
+common_number + string:u:N + symbol + year + day
+string:u:N + symbol + year + day + number
+number + string:u:N + symbol + year + day
+string:u:N + year + symbol + day
+string:u:N + year + symbol + day + common_number
+common_number + string:u:N + year + symbol + day
+string:u:N + year + symbol + day + number
+number + string:u:N + year + symbol + day
+year + day + string:u:N
+year + day + string:u:N + common_number
+common_number + year + day + string:u:N
+year + day + string:u:N + number
+number + year + day + string:u:N
+symbol + year + day + string:u:N
+symbol + year + day + string:u:N + common_number
+common_number + symbol + year + day + string:u:N
+symbol + common_number + year + day + string:u:N
+symbol + year + day + string:u:N + number
+number + symbol + year + day + string:u:N
+symbol + number + year + day + string:u:N
+year + day + string:u:N + symbol
+year + day + string:u:N + symbol + common_number
+common_number + year + day + string:u:N + symbol
+year + day + string:u:N + common_number + symbol
+year + day + string:u:N + symbol + number
+number + year + day + string:u:N + symbol
+year + day + string:u:N + number + symbol
+year + symbol + day + string:u:N
+year + symbol + day + string:u:N + common_number
+common_number + year + symbol + day + string:u:N
+year + symbol + day + string:u:N + number
+number + year + symbol + day + string:u:N
+year + day + symbol + string:u:N
+year + day + symbol + string:u:N + common_number
+common_number + year + day + symbol + string:u:N
+year + day + symbol + string:u:N + number
+number + year + day + symbol + string:u:N
+string:u:N + year + month
+string:u:N + year + month + common_number
+common_number + string:u:N + year + month
+string:u:N + year + month + number
+number + string:u:N + year + month
+symbol + string:u:N + year + month
+symbol + string:u:N + year + month + common_number
+common_number + symbol + string:u:N + year + month
+symbol + common_number + string:u:N + year + month
+symbol + string:u:N + year + month + number
+number + symbol + string:u:N + year + month
+symbol + number + string:u:N + year + month
+string:u:N + year + month + symbol
+string:u:N + year + month + symbol + common_number
+common_number + string:u:N + year + month + symbol
+string:u:N + year + month + common_number + symbol
+string:u:N + year + month + symbol + number
+number + string:u:N + year + month + symbol
+string:u:N + year + month + number + symbol
+string:u:N + symbol + year + month
+string:u:N + symbol + year + month + common_number
+common_number + string:u:N + symbol + year + month
+string:u:N + symbol + year + month + number
+number + string:u:N + symbol + year + month
+string:u:N + year + symbol + month
+string:u:N + year + symbol + month + common_number
+common_number + string:u:N + year + symbol + month
+string:u:N + year + symbol + month + number
+number + string:u:N + year + symbol + month
+year + month + string:u:N
+year + month + string:u:N + common_number
+common_number + year + month + string:u:N
+year + month + string:u:N + number
+number + year + month + string:u:N
+symbol + year + month + string:u:N
+symbol + year + month + string:u:N + common_number
+common_number + symbol + year + month + string:u:N
+symbol + common_number + year + month + string:u:N
+symbol + year + month + string:u:N + number
+number + symbol + year + month + string:u:N
+symbol + number + year + month + string:u:N
+year + month + string:u:N + symbol
+year + month + string:u:N + symbol + common_number
+common_number + year + month + string:u:N + symbol
+year + month + string:u:N + common_number + symbol
+year + month + string:u:N + symbol + number
+number + year + month + string:u:N + symbol
+year + month + string:u:N + number + symbol
+year + symbol + month + string:u:N
+year + symbol + month + string:u:N + common_number
+common_number + year + symbol + month + string:u:N
+year + symbol + month + string:u:N + number
+number + year + symbol + month + string:u:N
+year + month + symbol + string:u:N
+year + month + symbol + string:u:N + common_number
+common_number + year + month + symbol + string:u:N
+year + month + symbol + string:u:N + number
+number + year + month + symbol + string:u:N
+string:u:N + short_year + day
+string:u:N + short_year + day + common_number
+common_number + string:u:N + short_year + day
+string:u:N + short_year + day + number
+number + string:u:N + short_year + day
+symbol + string:u:N + short_year + day
+symbol + string:u:N + short_year + day + common_number
+common_number + symbol + string:u:N + short_year + day
+symbol + common_number + string:u:N + short_year + day
+symbol + string:u:N + short_year + day + number
+number + symbol + string:u:N + short_year + day
+symbol + number + string:u:N + short_year + day
+string:u:N + short_year + day + symbol
+string:u:N + short_year + day + symbol + common_number
+common_number + string:u:N + short_year + day + symbol
+string:u:N + short_year + day + common_number + symbol
+string:u:N + short_year + day + symbol + number
+number + string:u:N + short_year + day + symbol
+string:u:N + short_year + day + number + symbol
+string:u:N + symbol + short_year + day
+string:u:N + symbol + short_year + day + common_number
+common_number + string:u:N + symbol + short_year + day
+string:u:N + symbol + short_year + day + number
+number + string:u:N + symbol + short_year + day
+string:u:N + short_year + symbol + day
+string:u:N + short_year + symbol + day + common_number
+common_number + string:u:N + short_year + symbol + day
+string:u:N + short_year + symbol + day + number
+number + string:u:N + short_year + symbol + day
+short_year + day + string:u:N
+short_year + day + string:u:N + common_number
+common_number + short_year + day + string:u:N
+short_year + day + string:u:N + number
+number + short_year + day + string:u:N
+symbol + short_year + day + string:u:N
+symbol + short_year + day + string:u:N + common_number
+common_number + symbol + short_year + day + string:u:N
+symbol + common_number + short_year + day + string:u:N
+symbol + short_year + day + string:u:N + number
+number + symbol + short_year + day + string:u:N
+symbol + number + short_year + day + string:u:N
+short_year + day + string:u:N + symbol
+short_year + day + string:u:N + symbol + common_number
+common_number + short_year + day + string:u:N + symbol
+short_year + day + string:u:N + common_number + symbol
+short_year + day + string:u:N + symbol + number
+number + short_year + day + string:u:N + symbol
+short_year + day + string:u:N + number + symbol
+short_year + symbol + day + string:u:N
+short_year + symbol + day + string:u:N + common_number
+common_number + short_year + symbol + day + string:u:N
+short_year + symbol + day + string:u:N + number
+number + short_year + symbol + day + string:u:N
+short_year + day + symbol + string:u:N
+short_year + day + symbol + string:u:N + common_number
+common_number + short_year + day + symbol + string:u:N
+short_year + day + symbol + string:u:N + number
+number + short_year + day + symbol + string:u:N
+string:u:N + short_year + month
+string:u:N + short_year + month + common_number
+common_number + string:u:N + short_year + month
+string:u:N + short_year + month + number
+number + string:u:N + short_year + month
+symbol + string:u:N + short_year + month
+symbol + string:u:N + short_year + month + common_number
+common_number + symbol + string:u:N + short_year + month
+symbol + common_number + string:u:N + short_year + month
+symbol + string:u:N + short_year + month + number
+number + symbol + string:u:N + short_year + month
+symbol + number + string:u:N + short_year + month
+string:u:N + short_year + month + symbol
+string:u:N + short_year + month + symbol + common_number
+common_number + string:u:N + short_year + month + symbol
+string:u:N + short_year + month + common_number + symbol
+string:u:N + short_year + month + symbol + number
+number + string:u:N + short_year + month + symbol
+string:u:N + short_year + month + number + symbol
+string:u:N + symbol + short_year + month
+string:u:N + symbol + short_year + month + common_number
+common_number + string:u:N + symbol + short_year + month
+string:u:N + symbol + short_year + month + number
+number + string:u:N + symbol + short_year + month
+string:u:N + short_year + symbol + month
+string:u:N + short_year + symbol + month + common_number
+common_number + string:u:N + short_year + symbol + month
+string:u:N + short_year + symbol + month + number
+number + string:u:N + short_year + symbol + month
+short_year + month + string:u:N
+short_year + month + string:u:N + common_number
+common_number + short_year + month + string:u:N
+short_year + month + string:u:N + number
+number + short_year + month + string:u:N
+symbol + short_year + month + string:u:N
+symbol + short_year + month + string:u:N + common_number
+common_number + symbol + short_year + month + string:u:N
+symbol + common_number + short_year + month + string:u:N
+symbol + short_year + month + string:u:N + number
+number + symbol + short_year + month + string:u:N
+symbol + number + short_year + month + string:u:N
+short_year + month + string:u:N + symbol
+short_year + month + string:u:N + symbol + common_number
+common_number + short_year + month + string:u:N + symbol
+short_year + month + string:u:N + common_number + symbol
+short_year + month + string:u:N + symbol + number
+number + short_year + month + string:u:N + symbol
+short_year + month + string:u:N + number + symbol
+short_year + symbol + month + string:u:N
+short_year + symbol + month + string:u:N + common_number
+common_number + short_year + symbol + month + string:u:N
+short_year + symbol + month + string:u:N + number
+number + short_year + symbol + month + string:u:N
+short_year + month + symbol + string:u:N
+short_year + month + symbol + string:u:N + common_number
+common_number + short_year + month + symbol + string:u:N
+short_year + month + symbol + string:u:N + number
+number + short_year + month + symbol + string:u:N
+string:u:N + day + month + year
+string:u:N + day + month + year + common_number
+common_number + string:u:N + day + month + year
+string:u:N + day + month + year + number
+number + string:u:N + day + month + year
+symbol + string:u:N + day + month + year
+symbol + string:u:N + day + month + year + common_number
+common_number + symbol + string:u:N + day + month + year
+symbol + common_number + string:u:N + day + month + year
+symbol + string:u:N + day + month + year + number
+number + symbol + string:u:N + day + month + year
+symbol + number + string:u:N + day + month + year
+string:u:N + day + month + year + symbol
+string:u:N + day + month + year + symbol + common_number
+common_number + string:u:N + day + month + year + symbol
+string:u:N + day + month + year + common_number + symbol
+string:u:N + day + month + year + symbol + number
+number + string:u:N + day + month + year + symbol
+string:u:N + day + month + year + number + symbol
+string:u:N + symbol + day + month + year
+string:u:N + symbol + day + month + year + common_number
+common_number + string:u:N + symbol + day + month + year
+string:u:N + symbol + day + month + year + number
+number + string:u:N + symbol + day + month + year
+string:u:N + day + symbol + month + year
+string:u:N + day + symbol + month + year + common_number
+common_number + string:u:N + day + symbol + month + year
+string:u:N + day + symbol + month + year + number
+number + string:u:N + day + symbol + month + year
+string:u:N + day + month + symbol + year
+string:u:N + day + month + symbol + year + common_number
+common_number + string:u:N + day + month + symbol + year
+string:u:N + day + month + symbol + year + number
+number + string:u:N + day + month + symbol + year
+day + month + year + string:u:N
+day + month + year + string:u:N + common_number
+common_number + day + month + year + string:u:N
+day + month + year + string:u:N + number
+number + day + month + year + string:u:N
+symbol + day + month + year + string:u:N
+symbol + day + month + year + string:u:N + common_number
+common_number + symbol + day + month + year + string:u:N
+symbol + common_number + day + month + year + string:u:N
+symbol + day + month + year + string:u:N + number
+number + symbol + day + month + year + string:u:N
+symbol + number + day + month + year + string:u:N
+day + month + year + string:u:N + symbol
+day + month + year + string:u:N + symbol + common_number
+common_number + day + month + year + string:u:N + symbol
+day + month + year + string:u:N + common_number + symbol
+day + month + year + string:u:N + symbol + number
+number + day + month + year + string:u:N + symbol
+day + month + year + string:u:N + number + symbol
+day + symbol + month + year + string:u:N
+day + symbol + month + year + string:u:N + common_number
+common_number + day + symbol + month + year + string:u:N
+day + symbol + month + year + string:u:N + number
+number + day + symbol + month + year + string:u:N
+day + month + symbol + year + string:u:N
+day + month + symbol + year + string:u:N + common_number
+common_number + day + month + symbol + year + string:u:N
+day + month + symbol + year + string:u:N + number
+number + day + month + symbol + year + string:u:N
+day + month + year + symbol + string:u:N
+day + month + year + symbol + string:u:N + common_number
+common_number + day + month + year + symbol + string:u:N
+day + month + year + symbol + string:u:N + number
+number + day + month + year + symbol + string:u:N
+string:u:N + day + month + short_year
+string:u:N + day + month + short_year + common_number
+common_number + string:u:N + day + month + short_year
+string:u:N + day + month + short_year + number
+number + string:u:N + day + month + short_year
+symbol + string:u:N + day + month + short_year
+symbol + string:u:N + day + month + short_year + common_number
+common_number + symbol + string:u:N + day + month + short_year
+symbol + common_number + string:u:N + day + month + short_year
+symbol + string:u:N + day + month + short_year + number
+number + symbol + string:u:N + day + month + short_year
+symbol + number + string:u:N + day + month + short_year
+string:u:N + day + month + short_year + symbol
+string:u:N + day + month + short_year + symbol + common_number
+common_number + string:u:N + day + month + short_year + symbol
+string:u:N + day + month + short_year + common_number + symbol
+string:u:N + day + month + short_year + symbol + number
+number + string:u:N + day + month + short_year + symbol
+string:u:N + day + month + short_year + number + symbol
+string:u:N + symbol + day + month + short_year
+string:u:N + symbol + day + month + short_year + common_number
+common_number + string:u:N + symbol + day + month + short_year
+string:u:N + symbol + day + month + short_year + number
+number + string:u:N + symbol + day + month + short_year
+string:u:N + day + symbol + month + short_year
+string:u:N + day + symbol + month + short_year + common_number
+common_number + string:u:N + day + symbol + month + short_year
+string:u:N + day + symbol + month + short_year + number
+number + string:u:N + day + symbol + month + short_year
+string:u:N + day + month + symbol + short_year
+string:u:N + day + month + symbol + short_year + common_number
+common_number + string:u:N + day + month + symbol + short_year
+string:u:N + day + month + symbol + short_year + number
+number + string:u:N + day + month + symbol + short_year
+day + month + short_year + string:u:N
+day + month + short_year + string:u:N + common_number
+common_number + day + month + short_year + string:u:N
+day + month + short_year + string:u:N + number
+number + day + month + short_year + string:u:N
+symbol + day + month + short_year + string:u:N
+symbol + day + month + short_year + string:u:N + common_number
+common_number + symbol + day + month + short_year + string:u:N
+symbol + common_number + day + month + short_year + string:u:N
+symbol + day + month + short_year + string:u:N + number
+number + symbol + day + month + short_year + string:u:N
+symbol + number + day + month + short_year + string:u:N
+day + month + short_year + string:u:N + symbol
+day + month + short_year + string:u:N + symbol + common_number
+common_number + day + month + short_year + string:u:N + symbol
+day + month + short_year + string:u:N + common_number + symbol
+day + month + short_year + string:u:N + symbol + number
+number + day + month + short_year + string:u:N + symbol
+day + month + short_year + string:u:N + number + symbol
+day + symbol + month + short_year + string:u:N
+day + symbol + month + short_year + string:u:N + common_number
+common_number + day + symbol + month + short_year + string:u:N
+day + symbol + month + short_year + string:u:N + number
+number + day + symbol + month + short_year + string:u:N
+day + month + symbol + short_year + string:u:N
+day + month + symbol + short_year + string:u:N + common_number
+common_number + day + month + symbol + short_year + string:u:N
+day + month + symbol + short_year + string:u:N + number
+number + day + month + symbol + short_year + string:u:N
+day + month + short_year + symbol + string:u:N
+day + month + short_year + symbol + string:u:N + common_number
+common_number + day + month + short_year + symbol + string:u:N
+day + month + short_year + symbol + string:u:N + number
+number + day + month + short_year + symbol + string:u:N
+string:u:N + day + year + month
+string:u:N + day + year + month + common_number
+common_number + string:u:N + day + year + month
+string:u:N + day + year + month + number
+number + string:u:N + day + year + month
+symbol + string:u:N + day + year + month
+symbol + string:u:N + day + year + month + common_number
+common_number + symbol + string:u:N + day + year + month
+symbol + common_number + string:u:N + day + year + month
+symbol + string:u:N + day + year + month + number
+number + symbol + string:u:N + day + year + month
+symbol + number + string:u:N + day + year + month
+string:u:N + day + year + month + symbol
+string:u:N + day + year + month + symbol + common_number
+common_number + string:u:N + day + year + month + symbol
+string:u:N + day + year + month + common_number + symbol
+string:u:N + day + year + month + symbol + number
+number + string:u:N + day + year + month + symbol
+string:u:N + day + year + month + number + symbol
+string:u:N + symbol + day + year + month
+string:u:N + symbol + day + year + month + common_number
+common_number + string:u:N + symbol + day + year + month
+string:u:N + symbol + day + year + month + number
+number + string:u:N + symbol + day + year + month
+string:u:N + day + symbol + year + month
+string:u:N + day + symbol + year + month + common_number
+common_number + string:u:N + day + symbol + year + month
+string:u:N + day + symbol + year + month + number
+number + string:u:N + day + symbol + year + month
+string:u:N + day + year + symbol + month
+string:u:N + day + year + symbol + month + common_number
+common_number + string:u:N + day + year + symbol + month
+string:u:N + day + year + symbol + month + number
+number + string:u:N + day + year + symbol + month
+day + year + month + string:u:N
+day + year + month + string:u:N + common_number
+common_number + day + year + month + string:u:N
+day + year + month + string:u:N + number
+number + day + year + month + string:u:N
+symbol + day + year + month + string:u:N
+symbol + day + year + month + string:u:N + common_number
+common_number + symbol + day + year + month + string:u:N
+symbol + common_number + day + year + month + string:u:N
+symbol + day + year + month + string:u:N + number
+number + symbol + day + year + month + string:u:N
+symbol + number + day + year + month + string:u:N
+day + year + month + string:u:N + symbol
+day + year + month + string:u:N + symbol + common_number
+common_number + day + year + month + string:u:N + symbol
+day + year + month + string:u:N + common_number + symbol
+day + year + month + string:u:N + symbol + number
+number + day + year + month + string:u:N + symbol
+day + year + month + string:u:N + number + symbol
+day + symbol + year + month + string:u:N
+day + symbol + year + month + string:u:N + common_number
+common_number + day + symbol + year + month + string:u:N
+day + symbol + year + month + string:u:N + number
+number + day + symbol + year + month + string:u:N
+day + year + symbol + month + string:u:N
+day + year + symbol + month + string:u:N + common_number
+common_number + day + year + symbol + month + string:u:N
+day + year + symbol + month + string:u:N + number
+number + day + year + symbol + month + string:u:N
+day + year + month + symbol + string:u:N
+day + year + month + symbol + string:u:N + common_number
+common_number + day + year + month + symbol + string:u:N
+day + year + month + symbol + string:u:N + number
+number + day + year + month + symbol + string:u:N
+string:u:N + day + short_year + month
+string:u:N + day + short_year + month + common_number
+common_number + string:u:N + day + short_year + month
+string:u:N + day + short_year + month + number
+number + string:u:N + day + short_year + month
