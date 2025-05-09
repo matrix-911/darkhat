@@ -89,3 +89,7 @@ def download_passwords():
         return jsonify({"error": "No password file found."}), 404
 
     return send_file(output_path, as_attachment=True, download_name="passwords.txt")
+
+@api_bp.route("/health", methods=["GET"])
+def health():
+    return jsonify({"status": "ok"}), 200
